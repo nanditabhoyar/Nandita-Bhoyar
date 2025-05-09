@@ -20,4 +20,5 @@ Currently exploring opportunities where I can apply and grow my skills in a real
 - **SQL Queries & Database Management** – MySQL
 
 
-📬**Let’s connect on** [LinkedIn](www.linkedin.com/in/nanditabhoyar)  
+📬**Let’s connect on** www.linkedin.com/in/nanditabhoyar
+
