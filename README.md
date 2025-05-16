@@ -1,4 +1,4 @@
-# Hi, I'm Nandita Bhoyar 👋
+# Hi, I'm Nandita👋
 
 Aspiring **Data Analyst** with a strong interest in solving business problems through data.  
 I enjoy working with numbers, finding patterns, and creating meaningful stories that help in making better decisions.  
